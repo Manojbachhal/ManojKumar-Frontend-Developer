@@ -74,8 +74,8 @@ function Home() {
                 <div className="p-2">
                     <input
                         type="text"
-                        className="w-full h-10 rounded-lg border border-teal-600"
-                        placeholder="  Search Capsule by Category"
+                        className="w-full h-10 rounded-lg border border-teal-600 p-5"
+                        placeholder="Search Capsule by Category"
                         onChange={(e) => {
                             setSearchQueary(
                                 "&" +

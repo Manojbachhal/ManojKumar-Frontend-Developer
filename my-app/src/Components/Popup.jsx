@@ -1,7 +1,7 @@
 import React from "react";
 
 function Popup({ popup, setPopup }) {
-    console.log(popup.data);
+    // console.log(popup.data);
     return (
         <div
             id="popup"
